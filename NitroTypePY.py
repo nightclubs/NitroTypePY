@@ -30,7 +30,7 @@ class NitroTypePY:
                 'email': email,
                 'acceptPolicy': 'on',
                 'receiveContact': '',
-                'tz': 'America/New_York',
+                'tz': 'America/New_Jersey',
                 'qualifying': 1,
                 'avgSpeed': wpm,
                 'avgAcc': accuracy,
